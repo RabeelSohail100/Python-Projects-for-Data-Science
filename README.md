@@ -15,6 +15,13 @@ Analyze Indian Premier League cricket match data.
 Use pandas , matplotlib and seaborn for interactive visualizations.
 Investigate team performance and player statistics.
 
+**CardioGoodFitness - Descriptive Statistics and Linear Regression**
+
+Conduct descriptive statistics analysis on CardioGoodFitness customer data.
+Use pandas and numpy for data manipulation and statistical calculations.
+Explore customer demographics, purchase behavior, and product preferences.
+Implement a linear regression model to predict customer fitness levels based on demographic and usage data.
+
 **Car Prices Linear Regression**
 
 Predict car prices based on features like mileage, engine power, etc.
