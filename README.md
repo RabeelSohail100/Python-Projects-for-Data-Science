@@ -1,4 +1,4 @@
-# Python Projects for Data Science #
+# All Python Projects for Data Science #
 Welcome to the Python Projects for Data Science repository! This repository contains a collection of projects that demonstrate data analysis and machine learning techniques using Python. Each project includes detailed exploratory analysis, data preprocessing, and modeling using various Python libraries and machine learning algorithms.
 
 # Projects Included #
